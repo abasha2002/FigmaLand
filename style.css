@@ -583,13 +583,13 @@ h2{
 
 footer{
     margin-top: 207px;
+    margin-bottom: 107px;
 }
 footer nav{
     display: flex;
     flex-direction: column;
     gap: 19px;
     margin-top: 40px;
-
 }
 footer h6{
     font-family: 'Graphik';
